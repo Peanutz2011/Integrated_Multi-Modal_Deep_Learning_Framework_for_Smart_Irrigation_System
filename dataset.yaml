@@ -1,0 +1,8 @@
+path: _annotations.coco # Root directory
+train: ./maize_watered_drought_sorted/train # Train images folder
+val: ./maize_watered_drought_sorted/valid   # Validation images folder
+test: ./maize_watered_drought_sorted/test   # Test images folder (optional)
+
+names:
+  0: class_name_1
+  1: class_name_2

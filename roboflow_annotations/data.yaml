@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['maize']
+
+roboflow:
+  workspace: kincaid-s-workspace
+  project: my-first-project-anjsm
+  version: dataset
+  license: Private
+  url: https://app.roboflow.com/kincaid-s-workspace/my-first-project-anjsm/dataset

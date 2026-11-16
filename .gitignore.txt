@@ -1,0 +1,19 @@
+# Python & Virtual Environments
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Model checkpoints and weights
+*.keras
+*.pt
+*.h5
+*.pth
+*.pkl
